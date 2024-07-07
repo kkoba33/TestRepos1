@@ -1,0 +1,7 @@
+D:\01_Applications\Docker\DockerTest20240706\aspnetapp\published\aspnetapp.exe
+D:\01_Applications\Docker\DockerTest20240706\aspnetapp\published\appsettings.Development.json
+D:\01_Applications\Docker\DockerTest20240706\aspnetapp\published\appsettings.json
+D:\01_Applications\Docker\DockerTest20240706\aspnetapp\published\aspnetapp.dll
+D:\01_Applications\Docker\DockerTest20240706\aspnetapp\published\aspnetapp.deps.json
+D:\01_Applications\Docker\DockerTest20240706\aspnetapp\published\aspnetapp.runtimeconfig.json
+D:\01_Applications\Docker\DockerTest20240706\aspnetapp\published\aspnetapp.pdb
