@@ -22,7 +22,7 @@ COPY aspnetapp/. .
 #COPY aspnetapp/. ./aspnetapp/
 ##COPY . .
 #WORKDIR /source/aspnetapp
-RUN dotnet publish -c release
+RUN dotnet publish -c release -o /app
 
 # final stage/image
 FROM mcr.microsoft.com/dotnet/aspnet:8.0-jammy
