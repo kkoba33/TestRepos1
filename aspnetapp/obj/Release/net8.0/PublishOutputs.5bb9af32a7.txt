@@ -1,8 +1,0 @@
-D:\01_Applications\Docker\GithubTest\aspnetapp\published\aspnetapp.exe
-D:\01_Applications\Docker\GithubTest\aspnetapp\published\appsettings.Development.json
-D:\01_Applications\Docker\GithubTest\aspnetapp\published\appsettings.json
-D:\01_Applications\Docker\GithubTest\aspnetapp\published\sample_data.dat
-D:\01_Applications\Docker\GithubTest\aspnetapp\published\aspnetapp.dll
-D:\01_Applications\Docker\GithubTest\aspnetapp\published\aspnetapp.deps.json
-D:\01_Applications\Docker\GithubTest\aspnetapp\published\aspnetapp.runtimeconfig.json
-D:\01_Applications\Docker\GithubTest\aspnetapp\published\aspnetapp.pdb
