@@ -3,6 +3,8 @@
 @using System.Runtime.InteropServices
 @using System.IO
 @using System.Diagnostics
+@using Microsoft.AspNetCore.Hosting
+@inject IWebHostEnvironment WebHostEnvironment
 @{
     ViewData["Title"] = "Welcome to .NET";
     string hostName = System.Net.Dns.GetHostName();
@@ -10,6 +12,8 @@
     EnvironmentInfo env = new();
     const double Mebi = 1024 * 1024;
     const double Gibi = Mebi * 1024;
+
+
 }
 
 <div class="text-center">
@@ -72,6 +76,38 @@
                     }
                 }
 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                WebRootPath
+            </td>
+            <td>
+                @Model.lstClassDat[0].WebRootPath
+            </td>
+        </tr>
+        <tr>
+            <td>
+                ContentRootPath
+            </td>
+            <td>
+                @Model.lstClassDat[0].ContentRootPath
+            </td>
+        </tr>
+        <tr>
+            <td>
+                DataPath
+            </td>
+            <td>
+                @Model.lstClassDat[0].DataPath
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Data Rows
+            </td>
+            <td>
+                @Model.lstClassDat[0].DataRows
             </td>
         </tr>
     </table>

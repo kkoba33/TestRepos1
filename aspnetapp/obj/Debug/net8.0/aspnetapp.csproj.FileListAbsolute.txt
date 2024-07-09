@@ -66,6 +66,7 @@ D:\01_Applications\Docker\DockerTest20240706\aspnetapp\bin\Debug\net8.0\publishe
 D:\01_Applications\Docker\DockerTest20240706\aspnetapp\bin\Debug\net8.0\published\aspnetapp.runtimeconfig.json
 D:\01_Applications\Docker\GithubTest\aspnetapp\bin\Debug\net8.0\appsettings.Development.json
 D:\01_Applications\Docker\GithubTest\aspnetapp\bin\Debug\net8.0\appsettings.json
+D:\01_Applications\Docker\GithubTest\aspnetapp\bin\Debug\net8.0\sample_data.dat
 D:\01_Applications\Docker\GithubTest\aspnetapp\bin\Debug\net8.0\aspnetapp.staticwebassets.runtime.json
 D:\01_Applications\Docker\GithubTest\aspnetapp\bin\Debug\net8.0\aspnetapp.exe
 D:\01_Applications\Docker\GithubTest\aspnetapp\bin\Debug\net8.0\aspnetapp.deps.json
